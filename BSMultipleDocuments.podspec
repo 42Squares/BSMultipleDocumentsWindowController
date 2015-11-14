@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name           = 'BSMultipleDocuments'
+  s.name           = 'BSMultipleDocumentsWindowController'
   s.version        = '1.0.0'
   s.summary        = "Window with tabs and multiple NSDocument instances."
   s.homepage       = "https://github.com/gloubibou/BSMultipleDocumentsWindowController"
