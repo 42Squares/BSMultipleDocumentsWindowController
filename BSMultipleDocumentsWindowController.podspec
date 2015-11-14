@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary        = "Window with tabs and multiple NSDocument instances."
   s.homepage       = "https://github.com/gloubibou/BSMultipleDocumentsWindowController"
   s.author         = { 'Pierre Bernard' }
-  s.source         = { :git => 'https://github.com/gloubibou/BSMultipleDocumentsWindowController' }
+  s.source         = { :git => 'https://github.com/gloubibou/BSMultipleDocumentsWindowController.git' }
   s.osx.platform   = :osx
   s.requires_arc   = true
   s.source_files   = 'BSMultipleDocumentsWindowController/*'
